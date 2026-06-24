@@ -1,3 +1,9 @@
+/**
+ * range
+ * @param start
+ * @param end
+ * @param step
+ */
 export function range(start: number, end: number, step: number = 1): number[] {
   if (step === 0) throw new Error("Step cannot be zero");
   const result: number[] = [];
