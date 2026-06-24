@@ -22,3 +22,11 @@ npm install clamp-range
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'clamp-range';
+// See API section for available functions
+```
